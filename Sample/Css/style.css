@@ -273,7 +273,7 @@
 
 .countries{
     float: right;
-    padding-right: 60px;
+    padding-right: 40px;
 }
 
 
@@ -487,7 +487,7 @@
 
 
 
-.line{
+.vertical{
     width: 80%;
     height: 80px;
     border: 1px solid #acaaaa;
